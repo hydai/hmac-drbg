@@ -24,7 +24,7 @@ version = "0.6"
 
 [dependencies.hmac]
 git = "https://github.com/hydai/MACs"
-rev = "481b6f1"
+rev = "3d68f41"
 [dev-dependencies.serde_json]
 version = "1.0"
 
